@@ -1,1 +1,3 @@
-projeto de estudos Noticia Cidade
+projeto de estudos avançados Noticias cidade
+
+para acessar o site segue o link ---->
